@@ -1,0 +1,10 @@
+{
+  "name": "Harry Potter",
+  "email": "harry@example.com",
+  "phone": "081234567890",
+  "gender": "male",
+  "country": "India",
+  "days": "monday",
+  "startDate": "2024-01-10",
+  "endDate": "2024-01-15"
+}

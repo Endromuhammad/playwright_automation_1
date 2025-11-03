@@ -1,0 +1,17 @@
+{
+  "name": "playwrith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:sauce": "npx playwright test --project='SauceDemo (Chrome)' --headed",
+    "test:practice": "npx playwright test --project='TestAutomationPractice (Chrome)' --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  }
+}
